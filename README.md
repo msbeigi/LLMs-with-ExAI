@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mXsE_ooTJyO3xl99o6Oyp8P2mbXOD638#scrollTo=_S3iN__8DgNg)
+
 # NLP-analysis
 This project comprises three interconnected phases, collectively illuminating the landscape of natural language processing and artificial intelligence. The first phase, "Sentence Classification," scrutinizes text data at a granular level, identifying the presence of sexist content using models such as "bert-base-uncased," "xlbert-large-uncased," and "roberta-large." 
 This initial phase sets the stage for the second, "Explainable Algorithm Development," which seeks to demystify the intricate workings of AI models, including "xlbert-large-uncased," in recognizing sexist tokens. 
