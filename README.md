@@ -6,4 +6,4 @@ This initial phase sets the stage for the second, "Explainable Algorithm Develop
 The final phase, "Target Identification," expands the horizon by pinpointing and elucidating specific targets of sexist comments. Together, these phases endeavor to bolster the transparency and effectiveness of AI models in textual analysis.
 
 ![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/process-layout.jpg)
-![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/word-freq.jpg)
+![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/word-freq.png)
