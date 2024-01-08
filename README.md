@@ -11,6 +11,10 @@ The final phase, "Target Identification," expands the horizon by pinpointing and
 Words are displayed in a specific word size based on their frequency in the dataset:
 
 ![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/word-freq.png)
+## Transfomer-based Models Performance
+BERT-base-uncased achieved an overall F1 score of 0.65, with a precision of 0.53 and recall of 0.84. The model exhibited a competitive performance in detecting sexist language, with a relatively balanced trade-off between precision and recall. "XLNet-bert-large" demonstrated an F1 score of 0.70, with a precision of 0.63 and recall of 0.78. This model showed improved precision compared to BERT-base-uncased while maintaining a reasonable recall.
+
+"RoBERTa-large" outperformed both BERT-base-uncased and "XLNet-bert-large", achieving an F1 score of 0.73, with a precision of 0.69 and recall of 0.78. This model demonstrated a balanced performance with higher precision and recall values, indicating robust detection capabilities for sexist sentences. While all three models exhibited competitive results, the remaining tasks were carried on with the trained "RoBERTa-large".
 
 ## Utilizing Explainable Algorithms: LIME and SHAP
 Effectively highlight important tokens in identifying sexist content across various examples using LIME and SHAP.
