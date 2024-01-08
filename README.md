@@ -6,4 +6,20 @@ This initial phase sets the stage for the second, "Explainable Algorithm Develop
 The final phase, "Target Identification," expands the horizon by pinpointing and elucidating specific targets of sexist comments. Together, these phases endeavor to bolster the transparency and effectiveness of AI models in textual analysis.
 
 ![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/process-layout.jpg)
+
+## Exploring Word Frequency 
+Words are displayed in a specific word size based on their frequency in the dataset:
+
 ![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/word-freq.png)
+
+## Utilizing Explainable Algorithms: LIME and SHAP
+Effectively highlight important tokens in identifying sexist content across various examples using LIME and SHAP.
+
+### Token Detection
+Compare the total tokens detected by LIME and SHAP.
+
+![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/Total%20Tokens%20Comparison%20of%20LIME%20and%20SHAP.png)
+
+### Target Detection
+Compare the total targets detected by LIME and SHAP.
+![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/Total%20Target%20Comparison%20of%20LIME%20and%20SHAP.png)
