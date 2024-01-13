@@ -24,6 +24,9 @@ Compare the total tokens detected by LIME and SHAP.
 
 ![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/Total%20Tokens%20Comparison%20of%20LIME%20and%20SHAP.png)
 
+![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/Token%20F1%20of%20LIME%20and%20SHAP.png)
 ### Target Detection
 Compare the total targets detected by LIME and SHAP.
 ![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/Total%20Target%20Comparison%20of%20LIME%20and%20SHAP.png)
+
+![Analysis Process](https://github.com/msbeigi/NLP-analysis/blob/main/img/Target%20F1%20of%20LIME%20and%20SHAP.png)
